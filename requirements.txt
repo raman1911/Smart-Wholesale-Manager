@@ -1,0 +1,13 @@
+streamlit
+mysql-connector-python
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+joblib
+Pillow
+altair
+reportlab
+bcrypt
